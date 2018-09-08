@@ -17,9 +17,9 @@ More details can be found here:
 - Clone this repository `git clone https://github.com/wakqasahmed/course-03-project-blockchain-spec.git`
 - Open terminal and run `truffle develop`
 - Open another terminal and run the following commands:
--- `truffle compile`
--- `truffle migrate --reset`
--- `truffle test`
+  - `truffle compile`
+  - `truffle migrate --reset`
+  - `truffle test`
 - Done - You should witness passing of test cases related to the Smart Contract functions such as registering bidders, placing bids and revealing winners
 
 # Technology Stack
