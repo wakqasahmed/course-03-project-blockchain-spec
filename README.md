@@ -27,7 +27,7 @@ This project uses the following technologies:
 - **Solidity v0.4.17**
 - **Truffle IDE v4.0.4**
 
-# <a href="https://www.coursera.org/account/accomplishments/certificate/AFVFX95GPSMY" target="_blank">Course Completion Certificate</a>
+# [Course Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/AFVFX95GPSMY)
 
 # License
 This project is a public domain work, dedicated using CC0 1.0. Feel free to do whatever you want with it. (If you are a coursera student, learn but not cheat :P)
